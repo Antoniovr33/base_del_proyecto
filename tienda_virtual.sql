@@ -21,6 +21,8 @@ SET time_zone = "+00:00";
 -- Base de datos: `tienda_virtual`
 --
 
+CREATE DATABASE IF NOT EXISTS tienda_virtual;
+USE tienda_virtual;
 -- --------------------------------------------------------
 
 --
